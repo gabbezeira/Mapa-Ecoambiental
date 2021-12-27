@@ -797,6 +797,7 @@ footer{
 
         .footer-txt{
             width: 100%;
+            padding: 30px;
 
             .underline{
                 width: 40%;
@@ -814,7 +815,10 @@ footer{
             }
 
             h1, strong, p{
-                font-size: 8px;
+                font-size: 10px;
+            }
+            p{
+                font-weight: 300;
             }
         }
     }
