@@ -668,7 +668,7 @@ footer .container-footer img {
     display: none;
   }
   .metodo {
-    height: 400px;
+    height: 500px;
     margin-top: 4px;
   }
   .metodo .container-metodo {
@@ -682,7 +682,7 @@ footer .container-footer img {
   }
   .metodo .container-metodo .metodo-txt h3 {
     text-transform: uppercase;
-    font-size: 15px;
+    font-size: 16px;
     font-weight: 500;
     color: var(--color-aqua);
   }
@@ -695,7 +695,7 @@ footer .container-footer img {
   .metodo .container-metodo .metodo-txt h2 {
     text-transform: uppercase;
     font-weight: 500;
-    font-size: 15px;
+    font-size: 16px;
     color: var(--color-purple);
   }
   .metodo .container-metodo .metodo-txt h2 strong {
@@ -704,8 +704,7 @@ footer .container-footer img {
     color: var(--color-purple);
   }
   .metodo .container-metodo .metodo-txt p {
-    font-size: 12px;
-    font-weight: 300;
+    font-size: 16px;
     padding-top: 6px;
     line-height: 1;
     color: var(--font-color);
