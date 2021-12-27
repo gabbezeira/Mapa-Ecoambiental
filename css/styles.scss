@@ -693,7 +693,7 @@ footer{
     }
 
     .metodo {
-    height: 350px;
+    height: 400px;
     margin-top: 4px;
 
 
@@ -703,12 +703,12 @@ footer{
 
         .metodo-txt{
             width: 100%;
-            overflow: hidden;
+            overflow: scroll;
             padding: 0px 40px;
     
             h3{
                 text-transform: uppercase;
-                font-size: 12px;
+                font-size: 15px;
                 font-weight: 500;
                 color: var(--color-aqua);
             }
@@ -723,7 +723,7 @@ footer{
             h2{
                 text-transform: uppercase;
                 font-weight: 500;
-                font-size: 12px;
+                font-size: 15px;
                 color: var(--color-purple);
     
                 strong{
@@ -734,9 +734,9 @@ footer{
             }
     
             p{
-                font-size: 9.5px;
+                font-size: 12px;
                 font-weight: 300;
-                padding-top: 4px;
+                padding-top: 6px;
                 line-height: 1;
                 color: var(--font-color);
             }
