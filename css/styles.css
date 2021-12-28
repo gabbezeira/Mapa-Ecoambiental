@@ -977,4 +977,32 @@ footer .container-footer img {
     display: none;
   }
 }
+
+/* DATA ANIME */
+[data-anime] {
+  opacity: 0;
+  -webkit-transition: .3s;
+  transition: .3s;
+}
+
+[data-anime="left"] {
+  -webkit-transform: translate3d(-50px, 0, 0);
+          transform: translate3d(-50px, 0, 0);
+}
+
+[data-anime="right"] {
+  -webkit-transform: translate3d(50px, 0, 0);
+          transform: translate3d(50px, 0, 0);
+}
+
+[data-anime="top"] {
+  -webkit-transform: translate3d(0, 600px, 0);
+          transform: translate3d(0, 600px, 0);
+}
+
+[data-anime].animate {
+  opacity: 1;
+  -webkit-transform: translate3d(0px, 0px, 0px);
+          transform: translate3d(0px, 0px, 0px);
+}
 /*# sourceMappingURL=styles.css.map */
