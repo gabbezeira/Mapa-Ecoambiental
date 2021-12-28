@@ -654,29 +654,26 @@ footer{
 @media (max-width: 767px){
     .banner-1{
         width: auto;
-        height: 350px;
+        height: auto;
         overflow: hidden;
         z-index: 1;
     
         img{
-            margin-top: 50px;
-            margin-left: -220px;
-            width: auto;
-            height: 100%;
+            margin-top: 100px;
+            width: 100%;
+            height: auto;
         }
     }
 
     .banner-2{
         width: auto;
-        height: 350px;
+        height: auto;
         overflow: hidden;
         z-index: 1;
 
         img{
-            margin-top: 0px;
-            margin-left: -470px;
-            width: auto;
-            height: 100%;
+            width: 100%;
+            height: auto;
         } 
     }
 
