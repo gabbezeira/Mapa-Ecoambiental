@@ -1,4 +1,4 @@
-<img src="exemplo-image.png" alt="exemplo imagem">
+<img src="image-readme.png" alt="exemplo imagem">
 
 # Mapa Ecoambiental - Hidrossemeadura
 
